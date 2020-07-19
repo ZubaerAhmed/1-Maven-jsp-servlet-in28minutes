@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [04/May/2020:07:31:40 -0400] "GET / HTTP/1.1" 200 2894 http-bio-8080-exec-1 3961
+0:0:0:0:0:0:0:1 - - [04/May/2020:07:31:40 -0400] "GET /resources/css/style.css HTTP/1.1" 200 2894 http-bio-8080-exec-3 12
+0:0:0:0:0:0:0:1 - - [04/May/2020:07:31:40 -0400] "GET /resources/images/images-1.jpg HTTP/1.1" 200 2894 http-bio-8080-exec-2 5
